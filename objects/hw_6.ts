@@ -61,3 +61,8 @@ export const expectedObjPut: { name: string; job:string} =  {
     name: 'Nastya',
     job: 'developer'
 };
+
+export const expectedObjPatch: { name: string; job:string} = {
+    name: 'morpheus',
+    job: 'zion resident'
+}
